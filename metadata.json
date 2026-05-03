@@ -1,0 +1,6 @@
+{
+  "name": "CivicGuide AI",
+  "description": "A modern, AI-powered platform for interactive election education, awareness, and voting process guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI Chatbot", "Election Timeline", "Voting Simulator", "Candidate Directory", "Quiz System"]
+}
